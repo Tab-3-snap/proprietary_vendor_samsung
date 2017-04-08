@@ -45,12 +45,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lt02lte-common/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/samsung/lt02lte-common/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/samsung/lt02lte-common/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/samsung/lt02lte-common/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/lt02lte-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/lt02lte-common/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
     vendor/samsung/lt02lte-common/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
-    vendor/samsung/lt02lte-common/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/lt02lte-common/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/lt02lte-common/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/lt02lte-common/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/lt02lte-common/proprietary/lib/libxml.so:system/lib/libxml.so \
