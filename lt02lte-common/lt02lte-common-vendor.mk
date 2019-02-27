@@ -115,5 +115,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lt02lte-common/proprietary/vendor/lib/libsensor1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensor1.so \
     vendor/samsung/lt02lte-common/proprietary/vendor/lib/libxml.so:$(TARGET_COPY_OUT_VENDOR)/lib/libxml.so \
     vendor/samsung/lt02lte-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:$(TARGET_COPY_OUT_VENDOR)/lib/mediadrm/libwvdrmengine.so \
-    vendor/samsung/lt02lte-common/proprietary/vendor/lib/sensors.vendor.msm8960.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.vendor.msm8960.so
+    vendor/samsung/lt02lte-common/proprietary/vendor/lib/hw/sensors.vendor.msm8960.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.vendor.msm8960.so
 
